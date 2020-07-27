@@ -1,0 +1,433 @@
+Analysis started at: Mon Jul 27 22:45:37 2020
+Using BPP version: 4.3.0
+Command: /home/kaplipa/GIT/bpp/src/bpp --cfile A01.bpp.ctl 
+
+COMPRESSED ALIGNMENTS
+
+21 7 P
+^6           TAAATCA
+^c66         TAAATCT
+^rd1         TAAATCA
+^hn24        TAAATAA
+^gs250       TAAATCA
+^kiz1375     TAAATAA
+^kiz2305     TAAAACA
+^kiz2321     TAAAACA
+^kiz2405     TAAAACA
+^bj64        TAAATCA
+^dl4         TAACTCA
+^wlht2       TAAATCA
+^ypx2767     TAAATCA
+^ypx2732     TATATCA
+^ypx3876     TATATCA
+^ypx4225     TAAATAA
+^gs49        TAAATCA
+^gs132       TAAATAA
+^nx4         TAAATAA
+^ypx3462     TAAATAA
+^ypx3893     TCAATAA
+462 1 2 1 1 1 2
+
+28 4 P
+^6           AAGC
+^c66         AAGC
+^rd1         AAGC
+^hn24        AAGC
+^gs250       AAGC
+^kiz1375     AAGT
+^kiz2305     AAGC
+^kiz2321     AAGC
+^kiz2405     AAGC
+^bj64        AAGC
+^dl4         AAAT
+^wlht2       AAGC
+^ypx2767     AAGC
+^ypx2734     AAGC
+^ypx3195     AAGC
+^ypx4186     AAGC
+^ypx4184     AAGC
+^ypx3748     AAGC
+^ypx4225     AAGT
+^ypx3032     AAGT
+^gs49        AAGC
+^gs132       AAGC
+^nx4         AAGC
+^ypx3462     ACGC
+^c14         AAGC
+^ypx3893     AAGC
+^ypx3460     AAGC
+^gs75        AAGC
+430 1 1 1
+
+28 5 P
+^6           CCACT
+^c66         CCACT
+^rd1         CCACT
+^hn24        CCACT
+^gs250       CCACT
+^kiz1375     CCACA
+^kiz2305     CCACT
+^kiz2321     CCACT
+^kiz2405     CCACT
+^bj64        CCACT
+^dl4         CCATT
+^ypx2767     CCACT
+^ypx2734     CCACT
+^ypx3195     CCACT
+^ypx4186     CCACT
+^ypx4184     CCACT
+^ypx3748     CCACT
+^ypx4225     CCGCT
+^ypx3032     CCACT
+^gs49        CCACT
+^gs132       CCACT
+^nx4         CTACT
+^ypx3462     CCACT
+^c14         CCACT
+^ypx3893     CCACT
+^ypx3460     CCACT
+^gs01        CCACT
+^gs75        CCACT
+415 1 1 1 1
+
+24 7 P
+^6           GTCCGCT
+^c66         GTCCGCT
+^rd1         GTCCGCG
+^hn24        GTCCGAT
+^gs250       GTCCGCT
+^kiz1375     GTCCGCT
+^kiz2305     GTCCGCT
+^kiz2321     GTCCGCT
+^kiz2405     GTCCGCT
+^dl4         GTCATCT
+^ypx2767     GTTCTCT
+^ypx3195     GTCCTCT
+^ypx4186     GTCCTCT
+^ypx3748     GTCCTCT
+^ypx4225     GTCCGCT
+^ypx3032     GTCCGCT
+^gs49        GTCCGCT
+^gs132       GTCCGCT
+^ypx3462     GTCCGCT
+^c14         GCCCGCT
+^ypx3893     GTCCGCT
+^ypx3460     GTCCGCT
+^gs01        GTCCGCT
+^gs75        GTCCGCT
+267 1 1 1 1 1 1
+
+COMPRESSED ALIGNMENTS AFTER PHASING OF DIPLOID SEQUENCES
+
+42 7 P
+^6.1           TAAATCA
+^6.2           TAAATCA
+^c66.1         TAAATCT
+^c66.2         TAAATCT
+^rd1.1         TAAATCA
+^rd1.2         TAAATCA
+^hn24.1        TAAATAA
+^hn24.2        TAAATAA
+^gs250.1       TAAATCA
+^gs250.2       TAAATCA
+^kiz1375.1     TAAATAA
+^kiz1375.2     TAAATAA
+^kiz2305.1     TAAAACA
+^kiz2305.2     TAAAACA
+^kiz2321.1     TAAAACA
+^kiz2321.2     TAAAACA
+^kiz2405.1     TAAAACA
+^kiz2405.2     TAAAACA
+^bj64.1        TAAATCA
+^bj64.2        TAAATCA
+^dl4.1         TAACTCA
+^dl4.2         TAACTCA
+^wlht2.1       TAAATCA
+^wlht2.2       TAAATCA
+^ypx2767.1     TAAATCA
+^ypx2767.2     TAAATCA
+^ypx2732.1     TATATCA
+^ypx2732.2     TATATCA
+^ypx3876.1     TATATCA
+^ypx3876.2     TATATCA
+^ypx4225.1     TAAATAA
+^ypx4225.2     TAAATAA
+^gs49.1        TAAATCA
+^gs49.2        TAAATCA
+^gs132.1       TAAATAA
+^gs132.2       TAAATAA
+^nx4.1         TAAATAA
+^nx4.2         TAAATAA
+^ypx3462.1     TAAATAA
+^ypx3462.2     TAAATAA
+^ypx3893.1     TCAATAA
+^ypx3893.2     TCAATAA
+1 1 1 1 1 1 1
+
+56 4 P
+^6.1           AAGC
+^6.2           AAGC
+^c66.1         AAGC
+^c66.2         AAGC
+^rd1.1         AAGC
+^rd1.2         AAGC
+^hn24.1        AAGC
+^hn24.2        AAGC
+^gs250.1       AAGC
+^gs250.2       AAGC
+^kiz1375.1     AAGT
+^kiz1375.2     AAGT
+^kiz2305.1     AAGC
+^kiz2305.2     AAGC
+^kiz2321.1     AAGC
+^kiz2321.2     AAGC
+^kiz2405.1     AAGC
+^kiz2405.2     AAGC
+^bj64.1        AAGC
+^bj64.2        AAGC
+^dl4.1         AAAT
+^dl4.2         AAAT
+^wlht2.1       AAGC
+^wlht2.2       AAGC
+^ypx2767.1     AAGC
+^ypx2767.2     AAGC
+^ypx2734.1     AAGC
+^ypx2734.2     AAGC
+^ypx3195.1     AAGC
+^ypx3195.2     AAGC
+^ypx4186.1     AAGC
+^ypx4186.2     AAGC
+^ypx4184.1     AAGC
+^ypx4184.2     AAGC
+^ypx3748.1     AAGC
+^ypx3748.2     AAGC
+^ypx4225.1     AAGT
+^ypx4225.2     AAGT
+^ypx3032.1     AAGT
+^ypx3032.2     AAGT
+^gs49.1        AAGC
+^gs49.2        AAGC
+^gs132.1       AAGC
+^gs132.2       AAGC
+^nx4.1         AAGC
+^nx4.2         AAGC
+^ypx3462.1     ACGC
+^ypx3462.2     ACGC
+^c14.1         AAGC
+^c14.2         AAGC
+^ypx3893.1     AAGC
+^ypx3893.2     AAGC
+^ypx3460.1     AAGC
+^ypx3460.2     AAGC
+^gs75.1        AAGC
+^gs75.2        AAGC
+1 1 1 1
+
+56 5 P
+^6.1           CCACT
+^6.2           CCACT
+^c66.1         CCACT
+^c66.2         CCACT
+^rd1.1         CCACT
+^rd1.2         CCACT
+^hn24.1        CCACT
+^hn24.2        CCACT
+^gs250.1       CCACT
+^gs250.2       CCACT
+^kiz1375.1     CCACA
+^kiz1375.2     CCACA
+^kiz2305.1     CCACT
+^kiz2305.2     CCACT
+^kiz2321.1     CCACT
+^kiz2321.2     CCACT
+^kiz2405.1     CCACT
+^kiz2405.2     CCACT
+^bj64.1        CCACT
+^bj64.2        CCACT
+^dl4.1         CCATT
+^dl4.2         CCATT
+^ypx2767.1     CCACT
+^ypx2767.2     CCACT
+^ypx2734.1     CCACT
+^ypx2734.2     CCACT
+^ypx3195.1     CCACT
+^ypx3195.2     CCACT
+^ypx4186.1     CCACT
+^ypx4186.2     CCACT
+^ypx4184.1     CCACT
+^ypx4184.2     CCACT
+^ypx3748.1     CCACT
+^ypx3748.2     CCACT
+^ypx4225.1     CCGCT
+^ypx4225.2     CCGCT
+^ypx3032.1     CCACT
+^ypx3032.2     CCACT
+^gs49.1        CCACT
+^gs49.2        CCACT
+^gs132.1       CCACT
+^gs132.2       CCACT
+^nx4.1         CTACT
+^nx4.2         CTACT
+^ypx3462.1     CCACT
+^ypx3462.2     CCACT
+^c14.1         CCACT
+^c14.2         CCACT
+^ypx3893.1     CCACT
+^ypx3893.2     CCACT
+^ypx3460.1     CCACT
+^ypx3460.2     CCACT
+^gs01.1        CCACT
+^gs01.2        CCACT
+^gs75.1        CCACT
+^gs75.2        CCACT
+1 1 1 1 1
+
+48 7 P
+^6.1           GTCCGCT
+^6.2           GTCCGCT
+^c66.1         GTCCGCT
+^c66.2         GTCCGCT
+^rd1.1         GTCCGCG
+^rd1.2         GTCCGCG
+^hn24.1        GTCCGAT
+^hn24.2        GTCCGAT
+^gs250.1       GTCCGCT
+^gs250.2       GTCCGCT
+^kiz1375.1     GTCCGCT
+^kiz1375.2     GTCCGCT
+^kiz2305.1     GTCCGCT
+^kiz2305.2     GTCCGCT
+^kiz2321.1     GTCCGCT
+^kiz2321.2     GTCCGCT
+^kiz2405.1     GTCCGCT
+^kiz2405.2     GTCCGCT
+^dl4.1         GTCATCT
+^dl4.2         GTCATCT
+^ypx2767.1     GTTCTCT
+^ypx2767.2     GTTCTCT
+^ypx3195.1     GTCCTCT
+^ypx3195.2     GTCCTCT
+^ypx4186.1     GTCCTCT
+^ypx4186.2     GTCCTCT
+^ypx3748.1     GTCCTCT
+^ypx3748.2     GTCCTCT
+^ypx4225.1     GTCCGCT
+^ypx4225.2     GTCCGCT
+^ypx3032.1     GTCCGCT
+^ypx3032.2     GTCCGCT
+^gs49.1        GTCCGCT
+^gs49.2        GTCCGCT
+^gs132.1       GTCCGCT
+^gs132.2       GTCCGCT
+^ypx3462.1     GTCCGCT
+^ypx3462.2     GTCCGCT
+^c14.1         GCCCGCT
+^c14.2         GCCCGCT
+^ypx3893.1     GTCCGCT
+^ypx3893.2     GTCCGCT
+^ypx3460.1     GTCCGCT
+^ypx3460.2     GTCCGCT
+^gs01.1        GTCCGCT
+^gs01.2        GTCCGCT
+^gs75.1        GTCCGCT
+^gs75.2        GTCCGCT
+1 1 1 1 1 1 1
+
+
+Per-locus sequences in data and 'species&tree' tag:
+C.File | Data |                Status                | Population
+-------+------+--------------------------------------+-----------
+    18 |   12 | [OK]                                 | K         
+    14 |   20 | [OK]                                 | C         
+    28 |   22 | [OK]                                 | L         
+     4 |    4 | [OK]                                 | H         
+
+
+Initial MSC density and log-likelihood of observing data:
+log-PG0 = 1294.240575   log-L0 = -2922.401635
+
+0:00 taken to read and process data..
+Restarting timer...
+
+
+-*- Glossary of terms -*-
+
+  Prgs: progress of MCMC run (negative progress means burnin)
+  Gage: gene-tree age proposal
+  Gspr: gene-tree SPR proposal
+  thet: species tree theta proposal
+   tau: species tree tau proposal
+   mix: mixing proposal
+  Sspr: species tree SPR proposal
+mthet1: root node mean theta
+ mtau1: root node mean tau
+log-PG: log-probability of gene trees (MSC)
+ log-L: mean log-L of observing data
+
+     |     Acceptance proportions      |
+Prgs | Gage Gspr thet  tau  mix   Sspr |   mtau1       log-PG        log-L
+--------------------------------------------------------------------------
+   0%  0.68 0.04 0.00 0.25 0.40 0.1174   0.0007   1222.99745  -2431.83265  0:10
+   5%  0.68 0.04 0.00 0.25 0.39 0.1070   0.0007   1218.48771  -2430.74381  0:21
+  10%  0.68 0.04 0.00 0.25 0.39 0.1056   0.0007   1244.99190  -2430.95055  0:33
+  15%  0.68 0.04 0.00 0.25 0.39 0.0949   0.0007   1259.73499  -2431.11829  0:45
+  20%  0.68 0.04 0.00 0.25 0.39 0.0890   0.0007   1304.86858  -2431.16997  0:58
+  25%  0.68 0.04 0.00 0.25 0.39 0.0946   0.0007   1310.95049  -2431.22894  1:12
+  30%  0.68 0.04 0.00 0.25 0.39 0.0990   0.0007   1263.27336  -2431.27934  1:25
+  35%  0.68 0.04 0.00 0.25 0.39 0.1010   0.0007   1263.12605  -2431.27858  1:39
+  40%  0.68 0.04 0.00 0.25 0.39 0.0991   0.0007   1228.23215  -2431.25427  1:54
+  45%  0.68 0.04 0.00 0.25 0.39 0.0986   0.0007   1390.74597  -2431.23375  2:08
+  50%  0.68 0.04 0.00 0.25 0.40 0.1005   0.0007   1184.86032  -2431.26638  2:21
+  55%  0.68 0.04 0.00 0.25 0.40 0.1003   0.0007   1221.48226  -2431.25990  2:35
+  60%  0.68 0.04 0.00 0.25 0.39 0.0998   0.0007   1213.42052  -2431.24479  2:49
+  65%  0.68 0.04 0.00 0.25 0.39 0.1001   0.0007   1289.99555  -2431.21130  3:03
+  70%  0.68 0.04 0.00 0.25 0.39 0.1015   0.0007   1303.69356  -2431.20164  3:16
+  75%  0.68 0.04 0.00 0.25 0.39 0.1017   0.0007   1276.07204  -2431.18088  3:29
+  80%  0.68 0.04 0.00 0.25 0.40 0.1025   0.0007   1270.34399  -2431.22532  3:42
+  85%  0.68 0.04 0.00 0.25 0.40 0.1026   0.0007   1248.09786  -2431.19573  3:56
+  90%  0.68 0.04 0.00 0.25 0.40 0.1035   0.0007   1293.09880  -2431.19075  4:09
+  95%  0.68 0.04 0.00 0.25 0.40 0.1043   0.0007   1299.74375  -2431.18115  4:23
+ 100%  0.68 0.04 0.00 0.25 0.40 0.1039   0.0007   1221.24638  -2431.19029  4:36
+
+4:36 spent in MCMC
+
+Species in order:
+   1. K
+   2. C
+   3. L
+   4. H
+
+(A) Best trees in the sample (15 distinct trees in all)
+    34502  0.34502  0.34502 (((C, K), L), H);
+    18432  0.18432  0.52933 (((C, L), K), H);
+     8554  0.08554  0.61487 ((C, (K, L)), H);
+     8418  0.08418  0.69905 (((C, K), H), L);
+     6512  0.06512  0.76417 ((C, (H, K)), L);
+     4586  0.04586  0.81003 ((C, L), (H, K));
+     4088  0.04088  0.85091 (((C, L), H), K);
+     3946  0.03946  0.89037 (((C, H), K), L);
+     2913  0.02913  0.91950 (((C, H), L), K);
+     2477  0.02477  0.94427 ((C, K), (H, L));
+     1794  0.01794  0.96221 (C, ((H, K), L));
+     1736  0.01736  0.97957 ((C, (H, L)), K);
+      830  0.00830  0.98787 ((C, H), (K, L));
+      631  0.00631  0.99418 (C, ((H, L), K));
+      582  0.00582  1.00000 (C, (H, (K, L)));
+
+(B) Best splits in the sample of trees (10 splits in all)
+ 61488 0.614874  1110
+ 45397 0.453965  1100
+ 27106 0.271057  0110
+ 18876 0.188758  1101
+ 12892 0.128919  1001
+  9966 0.099659  1010
+  8737 0.087369  0111
+  7689 0.076889  0101
+  4844 0.048440  0011
+  3007 0.030070  1011
+
+(C) Majority-rule consensus tree
+((K, C, L) #0.614874, H);
+
+(D) Best tree (or trees from the mastertree file) with support values
+(((C, K) #0.453965, L) #0.614874, H);   [P = 0.345017]

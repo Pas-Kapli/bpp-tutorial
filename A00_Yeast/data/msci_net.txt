@@ -1,0 +1,11 @@
+# define binary relationships
+tree ((((Scer,Spar),Smik),Skud),Sbay);
+
+# define labels on the internal nodes of the tree 
+define A as Scer,Spar
+define B as Scer,Smik
+define C as Scer,Skud
+define R as Scer,Sbay
+
+# define a hybridization event
+hybridization Sbay R, Skud C as H D tau=yes,no phi=0.4
