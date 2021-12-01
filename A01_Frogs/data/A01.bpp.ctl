@@ -15,7 +15,7 @@
                  ((K, C), (L, H));
   phase =   1  1  1  1
   nloci = 5         * number of data sets in seqfile
-  cleandata = 1     * remove sites with ambiguity data (1:yes, 0:no)
+  cleandata = 0     * remove sites with ambiguity data (1:yes, 0:no)
   usedata = 1       * 0: no data (prior); 1:seq like
   model = JC69
 
@@ -23,6 +23,6 @@
   tauprior = 3 0.004    # invgamma(a, b) for root tau & Dirichlet(a) for other tau's
 
   print = 1 0 0 0   * MCMC samples, locusrate, heredityscalars Genetrees
-  burnin = 8000
+  burnin = 20000
   sampfreq = 2
-  nsample = 30000
+  nsample = 100000
