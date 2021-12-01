@@ -26,4 +26,3 @@
   burnin = 8000
   sampfreq = 2
   nsample = 30000
-  nsample = 10000
