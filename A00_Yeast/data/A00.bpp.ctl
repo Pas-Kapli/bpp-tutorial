@@ -1,7 +1,7 @@
       seed =  -1
 
-      seqfile = ../data/bpp_seqfile.txt
-      Imapfile = ../data/Imap.txt
+      seqfile = bpp_seqfile.txt
+      Imapfile = Imap.txt
       outfile = out.txt
       mcmcfile = mcmc.txt
 
@@ -26,4 +26,3 @@
       burnin = 8000
       sampfreq = 2
       nsample = 50000
-
