@@ -22,6 +22,7 @@
   thetaprior = 3 0.002   # invgamma(a, b) for theta. Does not estimate theta
   tauprior = 3 0.004    # invgamma(a, b) for root tau & Dirichlet(a) for other tau's
 
+  finetune = 1
   print = 1 0 0 0   * MCMC samples, locusrate, heredityscalars Genetrees
   burnin = 20000
   sampfreq = 2
