@@ -22,6 +22,7 @@
       tauprior = 3 0.2       # invgamma(a, b) for root tau & Dirichlet(a) for other tau's
       phiprior = 1 1         # beta(a, b) for phi in the MSci model
 
+      fineture = 1
       print = 1 0 0 0   * MCMC samples, locusrate, heredityscalars Genetrees
       burnin = 8000
       sampfreq = 2
